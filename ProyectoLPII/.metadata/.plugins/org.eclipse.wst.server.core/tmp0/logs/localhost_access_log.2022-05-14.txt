@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/May/2022:00:39:11 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [14/May/2022:00:39:12 -0500] "GET /Proyecto_LPII/Reporte_de_Bienes.jsp HTTP/1.1" 200 13625
+0:0:0:0:0:0:0:1 - - [14/May/2022:00:39:12 -0500] "GET /Proyecto_LPII/imagenes/repor.png HTTP/1.1" 200 2497
+0:0:0:0:0:0:0:1 - - [14/May/2022:00:39:12 -0500] "GET /Proyecto_LPII/imagenes/usuario.png HTTP/1.1" 200 6320
+0:0:0:0:0:0:0:1 - - [14/May/2022:00:39:12 -0500] "GET /Proyecto_LPII/imagenes/MinisteriPublico.svg HTTP/1.1" 200 46856
