@@ -50,7 +50,7 @@ background-position: center center;
 			
 
 			<div class="col text-light rounded p-5 rounded-end shadow-lg">
-				<h2 class="text-light text-center">LOGIN</h2>
+				<h2 class="text-light text-center">REGRISTRATE PAPU</h2>
 				<br />
 				<form action="#">
 					<div class="row mb-4">
